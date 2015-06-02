@@ -21,17 +21,17 @@ Objetivos
 Bases Científico-Tecnológicas (Conteúdos)
 --------------------------------------------
 
-#. Configuração do ambiente de Rede
-#. Administração de serviços de rede
+* Configuração do ambiente de Rede
+* Administração de serviços de rede
 
-  #. Sistema de Nomes de Domínio (DNS)
-  #. Servidor Web (HTTP)
-  #. Servidor de Log (Syslog/Logrotate)
-  #. Servidor de Acesso remoto seguro (SSH)
-  #. Transferência de arquivos (FTP)
-  #. Correio eletrônico (SMTP e POP3)
-  #. Atribuição dinâmica de endereços IP (DHCP)
-  #. Servidores de arquivo NSF e Samba
-  #. Servidor de impressão
-  #. Serviços de autenticação
-  #. Proxy
+  * Sistema de Nomes de Domínio (DNS)
+  * Servidor Web (HTTP)
+  * Servidor de Log (Syslog/Logrotate)
+  * Servidor de Acesso remoto seguro (SSH)
+  * Transferência de arquivos (FTP)
+  * Correio eletrônico (SMTP e POP3)
+  * Atribuição dinâmica de endereços IP (DHCP)
+  * Servidores de arquivo NSF e Samba
+  * Servidor de impressão
+  * Serviços de autenticação
+  * Proxy
