@@ -17,8 +17,7 @@ Objetivos
 * Apresentar ao aluno os problemas relacionados à gerência de redes
 * Estudar as técnicas de gerência segundo os modelos OSI (geral) e SNMP (detalhado)
 * Estudar/implantar ferramenta de gerência como estudo de caso
-* Conhecer, instalar, configurar e administrar sistemas de controle de segurança de redes, bem como elaborar
-documentos técnicos/administrativos relativos à segurança da informação
+* Conhecer, instalar, configurar e administrar sistemas de controle de segurança de redes, bem como elaborardocumentos técnicos/administrativos relativos à segurança da informação
 
 Bases Científico-Tecnológicas (Conteúdos)
 --------------------------------------------
